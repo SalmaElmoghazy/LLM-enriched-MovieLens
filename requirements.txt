@@ -1,0 +1,10 @@
+langchain
+transformers
+torch
+pydantic
+pandas
+numpy
+tqdm
+urllib3
+langchain-huggingface
+accelerate
