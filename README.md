@@ -1,4 +1,4 @@
-# LLM-Enhanced MovieLens Profile Generation
+# LLM-Enriced MovieLens
 
 This project enriches the user and item metadata of the MovieLens 100k and 1m datasets using the Llama 3.1 8B Instruct LLM. 
 
@@ -72,4 +72,3 @@ We enforce structured outputs by mapping the LLM's responses to specific schemas
 - `favorite_genres`: The user's top 3-5 most-watched and highly rated genres, ordered by preference.
 - `thematic_interests`: Preferred thematic elements inferred from their history.
 - `visual_style_preferences`: Preferred visual styles based on their highly rated movies.
-# LLM-enriched-MovieLens
