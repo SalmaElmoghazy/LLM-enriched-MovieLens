@@ -1,4 +1,4 @@
-# LLM-Enriced MovieLens
+# LLM-Enriched MovieLens
 
 This project enriches the user and item metadata of the MovieLens 100k and 1m datasets using the Llama 3.1 8B Instruct LLM. 
 
